@@ -1,0 +1,7 @@
+{
+  "number_of_nodes":  100,
+  "network_model(1:ER,2:BA)": 1,
+  "parameter (ER:0<p<=1,BA:1<=m<n)": 0.1,
+  "default_round_time(s)": 50,
+  "DRFC" : 1
+}
